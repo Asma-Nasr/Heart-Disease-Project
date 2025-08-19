@@ -19,3 +19,6 @@ Comprehensive Machine Learning Full Pipeline on Heart Disease UCI Dataset Final 
 - Unsupervised Models: K-Means, Hierarchical Clustering.
 - Model Optimization: GridSearchCV, RandomizedSearchCV.
 - Deployment Tools: Streamlit [Bonus], Ngrok [Bonus], GitHub.
+
+## Dataset
+- [Heart Disease Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease)
