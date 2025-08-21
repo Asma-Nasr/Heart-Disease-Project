@@ -36,5 +36,5 @@ pip install requirements.txt
 ## Dataset
 - [Heart Disease Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease)
 
-## Notebook
+## Notebooks
 - [Notebooks](https://github.com/Asma-Nasr/Heart-Disease-Project/tree/main/notebooks)
