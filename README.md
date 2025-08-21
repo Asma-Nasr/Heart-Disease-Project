@@ -1,7 +1,14 @@
 # Heart Disease Project
 Comprehensive Machine Learning Full Pipeline on Heart Disease UCI Dataset Final project @ Sprints x Microsoft Summer Camp - AI and Machine Learning.
- 
-## Comprehensive Machine Learning Full Pipeline on Heart Disease UCI Dataset
+
+## Table of Contents
+
+- [Instructions](#Instructions)
+- [Requirements](#requirements)
+- [Dataset](#Dataset)
+- [Notebooks](#Notebooks)
+
+## Instructions
 1. Objectives:
 - Perform Data Preprocessing & Cleaning (handle missing values, encoding, scaling).
 - Apply Dimensionality Reduction (PCA) to retain essential features.
@@ -20,5 +27,14 @@ Comprehensive Machine Learning Full Pipeline on Heart Disease UCI Dataset Final 
 - Model Optimization: GridSearchCV, RandomizedSearchCV.
 - Deployment Tools: Streamlit [Bonus], Ngrok [Bonus], GitHub.
 
+## Requirements
+
+```bash
+pip install requirements.txt
+```
+
 ## Dataset
 - [Heart Disease Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease)
+
+## Notebook
+- [Notebooks](https://github.com/Asma-Nasr/Heart-Disease-Project/tree/main/notebooks)
