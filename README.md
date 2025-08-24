@@ -7,7 +7,8 @@ Comprehensive Machine Learning Full Pipeline on Heart Disease UCI Dataset Final 
 - [Requirements](#requirements)
 - [Dataset](#Dataset)
 - [Notebooks](#Notebooks)
-
+- [Models](#Models)
+  
 ## Instructions
 1. Objectives:
 - Perform Data Preprocessing & Cleaning (handle missing values, encoding, scaling).
@@ -38,3 +39,6 @@ pip install requirements.txt
 
 ## Notebooks
 - [Notebooks](https://github.com/Asma-Nasr/Heart-Disease-Project/tree/main/notebooks)
+
+## Models
+- [Models](https://github.com/Asma-Nasr/Heart-Disease-Project/tree/main/models)
