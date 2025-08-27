@@ -9,6 +9,7 @@ Comprehensive Machine Learning Full Pipeline on Heart Disease UCI Dataset Final 
 - [Notebooks](#Notebooks)
 - [Models](#Models)
 - [Results](#Results)
+- [UI](#UI)
   
 ## Instructions
 1. Objectives:
@@ -46,3 +47,6 @@ pip install requirements.txt
 
 ## Results
 - [Results](https://github.com/Asma-Nasr/Heart-Disease-Project/tree/main/results)
+
+## UI
+- [UI](https://github.com/Asma-Nasr/Heart-Disease-Project/tree/main/ui)
