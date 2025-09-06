@@ -36,6 +36,8 @@ Comprehensive Machine Learning Full Pipeline on Heart Disease UCI Dataset Final 
 Heart_Disease_Project/
 │── data/
 │ ├── heart_disease.csv
+| ├── clean_data.csv
+| ├── features_selected_rfe.csv
 │── notebooks/
 │ ├── 01_data_preprocessing.ipynb
 │ ├── 02_pca_analysis.ipynb
@@ -44,11 +46,12 @@ Heart_Disease_Project/
 │ ├── 05_unsupervised_learning.ipynb
 │ ├── 06_hyperparameter_tuning.ipynb
 │── models/
-│ ├── final_model.pkl
+│ ├── model_pipeline.pkl
 │── ui/
 │ ├── app.py (Streamlit UI)
 │── results/
-│ ├── evaluation_metrics.txt
+│ ├── no_risk.png
+| ├── high_risk.png
 │── README.md
 │── requirements.txt
 │── .gitignore
@@ -70,7 +73,9 @@ pip install requirements.txt
 - [Models](https://github.com/Asma-Nasr/Heart-Disease-Project/tree/main/models)
 
 ## Results
-- [Results](https://github.com/Asma-Nasr/Heart-Disease-Project/tree/main/results)
+![High Risk](https://github.com/Asma-Nasr/Heart-Disease-Project/blob/main/results/high_risk.png)
+
+![No Risk](https://github.com/Asma-Nasr/Heart-Disease-Project/blob/main/results/no_risk.png)
 
 ## UI
 - [UI](https://github.com/Asma-Nasr/Heart-Disease-Project/tree/main/ui)
