@@ -4,6 +4,7 @@ Comprehensive Machine Learning Full Pipeline on Heart Disease UCI Dataset Final 
 ## Table of Contents
   
 - [Instructions](#Instructions)
+- [Project-Structure](#Project-Structure)
 - [Requirements](#requirements)
 - [Dataset](#Dataset)
 - [Notebooks](#Notebooks)
@@ -30,6 +31,29 @@ Comprehensive Machine Learning Full Pipeline on Heart Disease UCI Dataset Final 
 - Model Optimization: GridSearchCV, RandomizedSearchCV.
 - Deployment Tools: Streamlit [Bonus], Ngrok [Bonus], GitHub.
 
+## Project-Structure
+```
+Heart_Disease_Project/
+│── data/
+│ ├── heart_disease.csv
+│── notebooks/
+│ ├── 01_data_preprocessing.ipynb
+│ ├── 02_pca_analysis.ipynb
+│ ├── 03_feature_selection.ipynb
+│ ├── 04_supervised_learning.ipynb
+│ ├── 05_unsupervised_learning.ipynb
+│ ├── 06_hyperparameter_tuning.ipynb
+│── models/
+│ ├── final_model.pkl
+│── ui/
+│ ├── app.py (Streamlit UI)
+│── results/
+│ ├── evaluation_metrics.txt
+│── README.md
+│── requirements.txt
+│── .gitignore
+
+```
 ## Requirements
 
 ```bash
