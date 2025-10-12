@@ -79,3 +79,4 @@ pip install requirements.txt
 
 ## UI
 - [UI](https://github.com/Asma-Nasr/Heart-Disease-Project/tree/main/ui)
+- [Try the app](https://heart-disease-project-sprints.streamlit.app/)
