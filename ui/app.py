@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 # Loading the trained model and scaler
 @st.cache_resource
 def load_model():
-    return joblib.load('https://github.com/Asma-Nasr/Heart-Disease-Project/blob/main/models/model_pipeline.pkl')
+    return joblib.load('../models/model_pipeline.pkl')
     #return joblib.load('../results/model_pipeline.pkl')
 
 model = load_model()
